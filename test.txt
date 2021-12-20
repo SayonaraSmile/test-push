@@ -1,1 +1,1 @@
-Yo, this is my first commit. Nice to meet ya
+This is my first commit
